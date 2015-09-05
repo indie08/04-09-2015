@@ -49,6 +49,7 @@ Mauricio Alejandro González, Diana Ocampo Mendez, Abiel Tomás Parra Hernández
 		<feature name="http://api.phonegap.com/1.0/media"/>
 		<feature name="http://api.phonegap.com/1.0/network"/>
 		<gap:plugin name="org.apache.cordova.network-information"  />
+		<gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" />
 		<access origin="http://www.farodeoriente.org/prueba/cineclub.html" subdomains="true"  />
 		<access origin="http://www.farodeoriente.org/prueba/musica.html" subdomains="true"  />
 	</widget>
