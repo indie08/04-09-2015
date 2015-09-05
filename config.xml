@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id        = "faro de Oriente"
+		id        = "com.faro de Oriente.com"
 		versionCode=""
 		version   = "1">
 		<name>Faro de Oriente</name>
