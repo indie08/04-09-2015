@@ -66,4 +66,5 @@ Mauricio Alejandro González, Diana Ocampo Mendez, Abiel Tomás Parra Hernández
 		<gap:splash src="splash.png" />
 		<access origin="http://www.farodeoriente.org/prueba/cineclub-01.jpg" subdomains="true"  />
 		<access origin="http://www.farodeoriente.org/prueba/cineclub.html" subdomains="true"  />
+		<access origin="http://www.farodeoriente.org/prueba/musica.html" subdomains="true"  />
 	</widget>
